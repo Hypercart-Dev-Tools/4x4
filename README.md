@@ -29,7 +29,7 @@ The "4" constraint isn't arbitrary—it's the sweet spot between ambition and ac
 Ready to implement the 4x4 Dashboard? Here's how to get started in 3 simple steps:
 
 ### Step 1: Copy the Template
-Download or copy the [4X4.md](4X4.md) template file to your project repository. Update the metadata at the top (client, repo, week_of, sprint) to match your team's context.
+Download or copy the [4X4.md](4X4.md) template file to your project repository. Update the metadata at the top (client, repo, week_of, sprint) to match your team's context. 
 
 ### Step 2: Populate Your First Dashboard
 - **Strategic Backlog**: List up to 4 long-term goals or improvements that will have the biggest impact on your project
