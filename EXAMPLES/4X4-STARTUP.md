@@ -1,62 +1,56 @@
 ---
-client: ACME
-repo: https://github.com/ACME/REPO
+client: Super Startup Inc.
+repo: https://github.com/ExampleStartup/ProductRepo
 last_edit: 2026-02-11
 week_of: 2026-02-09
 source_pr_number: auto-populated
-sprint: 12345
+sprint: 42
 
 ---
-
-Pro-tip: Ask your VS Code AI to "self populate" abvove.
 
 # 4x4 Dashboard - Strategic Goals & Weekly Checklist
 
 A simple, actionable framework to prioritize and track engineering tasks. Focus on alignment, transparency, continuous improvement, and increasing clarity for everyone.
-
-This document does not replace your project management tools. It is meant to be a simple, actionable checklist to help you focus on the most important tasks for the week.
 
 ---
 
 ## 1. Strategic Backlog
 **Maximum of 4 items. Focus on long-term goals and impactful improvements.**
 
-1. - [ ] Example Task 1 - short note here
-2. - [ ] Example Task 2 - short note here
-3. - [ ] Example Task 3 - short note here
-4. - [ ] Example Task 4 - short note here
+1. - [ ] Launch MVP for Product X
+2. - [ ] Improve onboarding flow to reduce churn
+3. - [ ] Optimize database queries for scalability
+4. - [ ] Implement analytics to track user behavior
 
 ---
 
 ## 2. Current Week
 **Active tasks for the week. Maximum of 4 items.**
 
-> **Tip:** If your team frequently handles urgent issues, consider reserving 1-2 slots for hotfixes. Otherwise, use all 4 slots for planned work.
-
-- [x] Example Task 1  - short note here
-- [ ] Example Task 2 - short note here
-- [ ] Example Task 3 - short note here
-- [ ] Example Task 4 - short note here
+- [x] Finalize API endpoints for MVP
+- [ ] Build user dashboard (read-only metrics view)
+- [ ] Write integration tests for onboarding flow
+- [ ] Fix session timeout bug reported by beta testers
 
 ---
 
 ## 3. Previous Week
 **Review completed, deferred, or blocked tasks from the prior week.**
 
-- [x] Example Task 1
-- [x] Example Task 2
-- [ ] Example Task 3 - Deferred
-- [x] Example Task 4
+- [x] Complete wireframes for Product X
+- [x] Set up CI/CD pipeline
+- [ ] Address feedback from beta testers - Deferred (waiting on prioritized list from PM)
+- [x] Fix critical bugs in authentication module
 
 ---
 
 ## 4. Recent Lessons Learned
 **Capture insights to improve processes and avoid repeating mistakes.**
 
-1. Example Lesson 1: Identify areas where DRY and SOLID principles were violated.
-2. Example Lesson 2: Address bottlenecks in deployment pipelines.
-3. Example Lesson 3: Improve communication during cross-team collaborations.
-4. Example Lesson 4: Adjust planning based on realistic team velocity.
+1. Auth bug made it to staging because we had no integration test for the OAuth callback — added one.
+2. Wireframe sign-off took 3 days longer than expected; block designs until wireframes are approved next time.
+3. CI/CD pipeline setup revealed we had no staging env parity — worth auditing env configs quarterly.
+4. Beta tester feedback came in unstructured; ask PM to provide a ranked list before sprint planning.
 
 ---
 
