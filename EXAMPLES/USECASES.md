@@ -8,8 +8,8 @@ Beyond weekly planning, the 4x4 framework surfaces surprising value in other con
 
 **Scenario:** A new team member (or contractor, or AI assistant) joins a project.
 
-Hand them a blank [4X4.md](4X4.md) and ask them to fill it out based on what they know so far.
-
+At the end of 2-3 days (or even a week), hand them a blank [4X4.md](4X4.md) and ask them to fill it out based on what they know so far.
+ 
 **What it reveals:**
 - **For the new person** — it forces fast learning. Compressing the project into 4 strategic bets + 4 concrete weekly moves exposes gaps in their understanding immediately. If they can't fill those slots confidently, they know exactly what to ask about next.
 - **For existing stakeholders** — it's a 60-second alignment check. Scan the filled-out doc and see whether the author's mental model matches reality: what they think matters, what they think is urgent, what they think success looks like, and what they're choosing to ignore.
