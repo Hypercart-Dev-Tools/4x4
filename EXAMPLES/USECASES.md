@@ -99,7 +99,7 @@ We'd love to hear how you're using the 4x4 Dashboard!
 
 Visit [4x4clarity.com](https://4x4clarity.com) to learn more.
 
-If you're interested in similar structure and discipline for your AI agents, checkout:
+If you're interested in similar structure and discipline for your AI software development  agents, checkout:
 [Love2Hug.com](https://Love2Hug.com)
 
 ---
