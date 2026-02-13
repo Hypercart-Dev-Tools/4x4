@@ -62,6 +62,16 @@ We suggest adding a GH issue or PR # at the end of each task.
 ### How often should I be updating 4X4.md? Every day? Every week?
 We recommend updating the 4X4 Dashboard weekly during your sprint planning session. Daily updates are encouraged to check off completed tasks and make adjustments as needed, ensuring it remains a living document.
 
+### If I am working on a new feature in my app, do you have a recommended process for that?
+Yes! While the 4x4 Dashboard focuses on weekly and strategic priorities, we are developing a supplementary "4-step project outline" to help teams plan new features. This includes:
+
+1. **Goals**: Define what the feature aims to achieve.
+2. **Assumptions**: Outline any assumptions, including time estimates.
+3. **Potential Risks**: Identify risks and mitigation strategies.
+4. **Long-Term Maintainability**: Consider how the feature will be maintained over time.
+
+You can find this outline in the "Bonus: Project Scope Outline" section of the [4X4.md](4X4.md) file. It's a work-in-progress and is being integrated more seamlessly into the 4x4 methodology.
+
 ---
 
 ## Suggestion
